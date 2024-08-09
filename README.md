@@ -1,7 +1,3 @@
-# Facebook Static Login Form (Full offline css and js)
+# Facebook Static Login Form 
 
-## Author: [KasRoudra](https://github.com/KasRoudra)
-
-#### This is created for educational purposes demonstrating how phishing works.
-
-### Use/Copy it legally and provide proper credit
+#Este proyecto, con fines educativos, se basa en la técnica de phishing y tiene como objetivo enviar datos a la plataforma de mensajería Telegram.
